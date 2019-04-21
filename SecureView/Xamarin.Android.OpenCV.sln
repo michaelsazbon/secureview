@@ -1,0 +1,10 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV.Binding", "OpenCV.Binding\OpenCV.Binding.csproj", "{3675B5A0-535B-4CFB-B523-ED60837278B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV.SDKDemo", "OpenCV.SDKDemo\OpenCV.SDKDemo.csproj", "{F0880AD6-6B72-458A-BE06-A300907B41B3}"
+EndProject
+

@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+  <opencv.sdkdemo.securecamerav3.SecureCameraV3View
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:visibility="gone"
+      android:id="@+id/securecamerav3_java_surface_view" />
+
+  <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="gone"
+    android:id="@+id/picturedisplay"/>
+  
+  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="wrap_content"
+   android:layout_height="wrap_content">
+      
+    <Button
+    android:id="@+id/decryptButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Decrypt"/>
+    
+  </LinearLayout>
+
+
+</FrameLayout>
