@@ -1,5 +1,5 @@
 # SecureView (Nov 2016)
-R&amp;D and POC for Android App based on Xamarin and Tesseract OCR lib for decrytpting encrypted texts on computer screen witj your mobile
+R&amp;D and POC for Android App based on Xamarin and Tesseract OCR lib for decrytpting encrypted texts on a computer screen with your mobile
 
 # Overview
 
